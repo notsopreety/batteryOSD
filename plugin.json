@@ -1,0 +1,13 @@
+{
+    "id": "batteryOSD",
+    "name": "Battery & Power OSD",
+    "description": "Material YOU inspired On-Screen Display popup and liquid wave indicator for battery charging",
+    "category": "system",
+    "version": "1.0.0",
+    "author": "Samir Thakuri",
+    "icon": "battery_charging_full",
+    "type": "daemon",
+    "component": "./BatteryOSDDaemon.qml",
+    "settings": "./BatteryOSDSettings.qml",
+    "permissions": ["settings_read", "settings_write"]
+}

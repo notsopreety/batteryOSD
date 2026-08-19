@@ -4,7 +4,7 @@
     "description": "Material YOU inspired On-Screen Display popup and liquid wave indicator for battery charging",
     "category": "system",
     "version": "1.0.0",
-    "author": "Samir Thakuri",
+    "author": "Samir Badaila",
     "icon": "battery_charging_full",
     "type": "daemon",
     "component": "./BatteryOSDDaemon.qml",
